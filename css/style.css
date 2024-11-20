@@ -4,3 +4,6 @@ h1, h2, h3  {
 p {
   font-family: "Noto Music", serif;
 }
+#audio {
+  color: maroon;
+}
