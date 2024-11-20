@@ -4,6 +4,9 @@ h1, h2, h3  {
 p {
   font-family: "Noto Music", serif;
 }
-#audio {
+#audioandvideo>h3 {
   color: maroon;
+}
+#formulario>h3 {
+  
 }
